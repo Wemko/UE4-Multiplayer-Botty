@@ -1,5 +1,8 @@
 # UE4 Multiplayer Botty
 
+## Play
+Check the release tabs for a downloadable zip file.
+
 ## Controls
 
 WASD/Arrow keys to move
